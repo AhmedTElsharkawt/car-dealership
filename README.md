@@ -8,7 +8,7 @@ To run Car Dealership locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/AhmedTElsharkawt/car-dealership
+    git clone https://github.com/AhmedTElsharkawt/car-dealership.git
     ```
 
 2. Change to the project directory
